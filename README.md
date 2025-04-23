@@ -1,20 +1,24 @@
-# ¡Hola! Soy Antonio 👋
+# Hello, I’m Antonio
 
-✨ _Bienvenido a mi perfil de GitHub_ ✨
+I’m a big fan of Nintendo and you’ll often catch me listening to Ariana Grande, Kali Uchis, Charli XCX and Lady Gaga.
 
-## Acerca de mí
+## About me
 
-- 📚 Estudio en la Facultad de Ciencias de la UNAM.
-- 🎓 Estudio Ciencias de la Computación.
-- 💡 Mis áreas de interés son el álgebra moderna y la computación teórica.
-- 📫 Cómo contactarme: Puedes enviarme un correo a [a.barrientos@ciencias.unam.mx](mailto:a.barrientos@ciencias.unam.mx).
+- I study Computer Science at the Faculty of Sciences, UNAM.  
+- My main interests are algorithms, theoretical computer science and modern algebra.  
+- As a kid I did contests like the AMC Spring Math Contest and the Children’s Knowledge Olympiad—those sparked my love of math and coding.  
+- I read research papers and then implement the ideas I find in code.  
+- I create animations with Blender and Python to explain algorithms and abstract algebra.  
+- I share what I learn through local science outreach.
 
-## Estadísticas de GitHub
+## Contact
 
-[![Estadísticas de GitHub de tu usuario](https://github-readme-stats.vercel.app/api?username=JAntonioBarrientos&show_icons=true&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
+You can reach me at [a.barrientos@ciencias.unam.mx](mailto:a.barrientos@ciencias.unam.mx)
 
-## Lenguajes más utilizados
+## GitHub stats
 
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=JAntonioBarrientos&layout=compact&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAntonioBarrientos&show_icons=true&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
 
-¡Gracias por visitar mi perfil! 🚀
+## Top languages
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAntonioBarrientos&layout=compact&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
