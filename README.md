@@ -15,10 +15,6 @@ I’m a big fan of Nintendo and you’ll often catch me listening to Ariana Gran
 
 You can reach me at [a.barrientos@ciencias.unam.mx](mailto:a.barrientos@ciencias.unam.mx)
 
-## GitHub stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAntonioBarrientos&show_icons=true&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
-
 ## Top languages
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAntonioBarrientos&layout=compact&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
