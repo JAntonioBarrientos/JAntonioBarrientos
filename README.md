@@ -4,12 +4,9 @@ I’m a big fan of Nintendo and you’ll often catch me listening to Ariana Gran
 
 ## About me
 
-- I study Computer Science at the Faculty of Sciences, UNAM.  
-- My main interests are algorithms, theoretical computer science and modern algebra.  
-- As a kid I did contests like the AMC Spring Math Contest and the Children’s Knowledge Olympiad—those sparked my love of math and coding.  
-- I read research papers and then implement the ideas I find in code.  
-- I create animations with Blender and Python to explain algorithms and abstract algebra.  
-- I share what I learn through local science outreach.
+My journey into computer science began with childhood math competitions like the AMC, which sparked a lasting passion for problem-solving. Today, I'm a Computer Science student at UNAM, where I dive deep into my main interests: algorithms, theoretical computer science, and modern algebra.
+
+I believe the best way to understand a concept is to build with it. That's why I enjoy reading research papers and translating the ideas I find into code. I also create animations with Blender and Python to visualize complex topics and share what I learn through local science outreach.
 
 ## Contact
 
