@@ -11,7 +11,3 @@ I believe the best way to understand a concept is to build with it. That's why I
 ## Contact
 
 You can reach me at [a.barrientos@ciencias.unam.mx](mailto:a.barrientos@ciencias.unam.mx)
-
-## Top languages
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAntonioBarrientos&layout=compact&theme=radical)](https://github.com/JAntonioBarrientos/github-readme-stats)
