@@ -1,13 +1,20 @@
-# Hello, I’m Antonio
+# Hello, I’m Antonio 👋
 
-I’m a big fan of Nintendo and you’ll often catch me listening to Ariana Grande, Kali Uchis, Charli XCX and Lady Gaga.
+Computer Science student at UNAM. When I’m not at my desk, I’m likely playing Nintendo or listening to Ariana Grande, Kali Uchis, Charli XCX, and Lady Gaga.
 
-## About me
+---
 
-My journey into computer science began with childhood math competitions like the AMC, which sparked a lasting passion for problem-solving. Today, I'm a Computer Science student at UNAM, where I dive deep into my main interests: algorithms, theoretical computer science, and modern algebra.
+### Academic Focus
+* Algorithms
+* Theoretical Computer Science
+* Abstract Algebra
 
-I believe the best way to understand a concept is to build with it. That's why I enjoy reading research papers and translating the ideas I find into code. I also create animations with Blender and Python to visualize complex topics and share what I learn through local science outreach.
+### Competitive Programming
+* **2025 ICPC Mexico Finalist**
+* Organizer & Administrator @pumasmas 🐾
 
-## Contact
+### Hobbies
+* Scripting **Blender** animations to visualize science.
 
-You can reach me at [a.barrientos@ciencias.unam.mx](mailto:a.barrientos@ciencias.unam.mx)
+### Contact
+* [a.barrientos@ciencias.unam.mx](mailto:a.barrientos@ciencias.unam.mx)
