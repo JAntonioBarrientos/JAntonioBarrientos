@@ -1,6 +1,6 @@
 # Hello, I’m Antonio 
 
-Computer Science student at UNAM. When I’m not at my desk, I’m likely playing Nintendo or listening to Ariana Grande, Kali Uchis, Charli XCX, and Lady Gaga.
+Computer Science student at UNAM. When I’m not programming, I’m likely playing Nintendo or listening to Ariana Grande, Kali Uchis, Charli XCX, and Lady Gaga.
 
 ---
 
